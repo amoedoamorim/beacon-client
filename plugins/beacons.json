@@ -1,0 +1,6 @@
+{
+    "menuName": "Beacons",
+    "icon": "rss",
+    "mainPage": "beacons.qml",
+    "itemHead": "label"
+}
